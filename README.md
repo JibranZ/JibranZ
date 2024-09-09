@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
 
-- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **JavaScipt,CSS**
 
